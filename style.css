@@ -134,6 +134,6 @@ ul{
 @media (max-width:660px){
   .bottom-left, .bottom-right, .container{
     width:100%;
-    height:auto;
+    height:100%;
   }
  }
